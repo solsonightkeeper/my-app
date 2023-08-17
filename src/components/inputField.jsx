@@ -14,7 +14,7 @@ import { inpuField } from "@yakad/ui";
 function YakadField() {
   return (
     <Container maxWidth="md">
-      <h2 style={{ fontSize: "23px", color: "#dc3545" }}>InputField</h2>
+      <h2 style={{ fontSize: "23px", color: "#dc3445" }}>InputField</h2>
       <Hr />
       <h3 style={{ fontSize: "1.8rem" }}>Variant:</h3>
       <Card
