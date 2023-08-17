@@ -3,7 +3,7 @@ import { Button, Card, Container, Spacer, Row, Hr } from "@yakad/ui";
 function YakadSpacer() {
   return (
     <Container maxWidth="md">
-      <h2 style={{ fontSize: "23px", color: "#dc3544" }}>Spacer</h2>
+      <h2 style={{ fontSize: "23px", color: "#dc3534" }}>Spacer</h2>
       <Hr />
       <h3 style={{ fontSize: "1.8rem" }}>spacer:</h3>
       <Card>
